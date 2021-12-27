@@ -36,4 +36,4 @@ Time: O(logN)
 Space: O(1)
 
 ## Thoughts
-1. 排序数组中的搜索问题，首先想到 二分法 binary search 解决
+1. Ordered array中的搜索问题，首先想到 二分法 binary search 解决
